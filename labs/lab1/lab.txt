@@ -1,0 +1,8 @@
+How to run the lab.
+
+cd lab1
+npm install
+npm test
+
+Change one xit( to it( in the file test/can-vote-test.js and then edit the file src/can-vote.js minimally to make the test pass.
+
