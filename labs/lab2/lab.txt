@@ -1,0 +1,8 @@
+How to run the lab.
+
+cd lab2
+npm install
+npm test
+
+Change one xit( to it( in the file test/people-test.js and then edit the file src/people.js minimally to make the test pass.
+
