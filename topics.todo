@@ -7,54 +7,54 @@ Access:
 URL: https://github.com/venkats/uberconf071819m
 
 Part 1: Getting the Feet Wet:
--What's wrong with JavaScript?
--What's good about it?
--; is really not optional
--use === instead of ==
--the mess of var
--use option strict
--no block scope with var
--quit using var
--let
--differences between let and var
-	-can't redefine
-  -provides block scope
--const
--know what is really const
--making the object a constant
--writing functions
--Exercise
+✓What's wrong with JavaScript?
+✓What's good about it?
+✓; is really not optional
+✓use === instead of ==
+✓the mess of var
+✓use option strict
+✓no block scope with var
+✓quit using var
+✓let
+✓differences between let and var
+	✓can't redefine
+  ✓provides block scope
+✓const
+✓know what is really const
+✓making the object a constant
+✓writing functions
+✓Exercise
 
 Part 2: Diving into JavaScript:
--default parameters
- -sending value
- -sending no value
- -sending undefined
- -where can they appear
--rest operator
--rest only one and only last
--spread
--arrow functions
--benefits
--higher-order functions
--looping
--looping with index
--template literals
--multiline strings
--Exercise
+✓default parameters
+ ✓sending value
+ ✓sending no value
+ ✓sending undefined
+ ✓where can they appear
+✓rest operator
+✓rest only one and only last
+✓spread
+✓arrow functions
+✓benefits
+✓higher-order functions
+✓looping
+✓looping with index
+✓template literals
+✓multiline strings
+✓Exercise
 
 Part 3: Exploring Object and Classes:
--creating an object
--prototype of an object
--creating a class
- -constructor and toString
--what does creating an object mean?
--instance vs. static functions
--examining properties
--inheritance
- -calling method on base
--default passthrough
--prototypal inheritance
--gets are deep sets are shallow
--hasOwnProperty
+✓creating an object
+✓prototype of an object
+✓creating a class
+ ✓constructor and toString
+✓what does creating an object mean?
+✓instance vs. static functions
+✓examining properties
+✓inheritance
+ ✓calling method on base
+✓default passthrough
+✓prototypal inheritance
+✓gets are deep sets are shallow
+✓hasOwnProperty
 -Exercise
